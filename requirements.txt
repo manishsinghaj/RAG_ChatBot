@@ -1,0 +1,6 @@
+streamlit
+chromadb
+langchain
+PyMuPDF
+tiktoken
+google-generativeai
